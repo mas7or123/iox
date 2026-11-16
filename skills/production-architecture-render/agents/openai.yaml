@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production Architecture Render"
+  short_description: "Production architectural image prompting"
+  default_prompt: "Use $production-architecture-render to turn this design reference or selected close-up crop into a production-quality architectural image."
